@@ -1,4 +1,4 @@
-# Insert Lesson Title
+# Java : Array & Loops
 
 ## Dependencies
 
@@ -10,10 +10,14 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- Insert the knowledge to be acquired
+- What are arrays and the use cases.
+- Array is fixed length while ArrayList is extensible.
+- For and while loop, and their use cases.
 
 Learners will be able to:
-- Insert the skillset to be acquired
+- Declare and assign value to an array.
+- Add new element to the end of array by first converting the array to array list.
+- Loop through an array and array list.
 
 
 ## Lesson Plan
