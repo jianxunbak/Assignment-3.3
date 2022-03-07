@@ -12,18 +12,14 @@ Instructor to use the code provided for demonstration during the I DO segment. L
 
 ---
 
-## Part 1 - Insert Summary
+## Part 1 - Arrays and ArrayLists
 
-Insert Instructions
-
----
-
-## Part 2 - Insert Summary
-
-Insert Instructions
+Open the ArraysLesson.java and code along with the student. Make sure to take time to pause after the Array section before proceeding to the ArrayList and conversion.
 
 ---
 
-## Part 3 - Insert Summary
+## Part 2 - Loops and Accessing arrays
 
-Insert Instructions
+Open the LoopsLesson.java and code along with the student. Make sure to take time to pause after the while, do-while, and for loops section before proceeding to accessing arrays and enhanced for loop.
+
+---
