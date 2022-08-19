@@ -35,7 +35,7 @@
 - B: add()
 - C: append()
 - D: insert()
-—
+---
 
 ### Q6: Loops can be used to iterate through an array
 - A: True
