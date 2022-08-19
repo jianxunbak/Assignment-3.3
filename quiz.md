@@ -23,11 +23,11 @@
 - D: Cannot be determined
 ---
 
-### Q4: Array indices start with what value?
-- A: 1
-- B: First value of the array
-- C: 0
-- D: Cannot be determined
+### Q4: What is the difference between Arrays and ArrayLists?
+- A: Arrays can contain only data of a single type, while ArrayLists can have values of multiple data types.
+- B: Arrays have a fixed length, while ArrayLists have variable lengths
+- C: Array index always starts with 0, ArrayList index always starts with 1
+- D: All are correct
 ---
 
 ### Q5: What function can be used to add elements to ArrayLists?
