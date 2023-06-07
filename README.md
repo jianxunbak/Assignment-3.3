@@ -25,15 +25,15 @@ Learners will be able to:
 |Duration|What|How or Why|
 |--------|-----|-------|
 |- 5mins |Start zoom session|So that students can join early and start class on time|
-|15 mins|Self studies check-in|Does every students have JDK installed? Are there any questions on self-studies? If the students do not have SDK installed, they can practice in class using w3schools links provided in the self studies.|
-|15 mins|I DO Part 1|Instructor demonstrates the syntax of writing a class with main method.|
-|15 mins|WE DO Part 1|Learners write a class with main method.|
-|15 mins|I DO Part 2|Instructors demonstrate compiling and running Java code using `javac` and `java` on CLI|
-|15 mins|WE DO Part 2|Learners compile and run Java Code using `javac` and `java` on CLI|
+|15 mins|Self studies check-in|Are there any questions on self-studies? |
+|15 mins|I DO Part 1|Instructor demonstrates the syntax of writing arrays|
+|15 mins|WE DO Part 1|Learners write arrays and manipulate arrays|
+|15 mins|I DO Part 2|Instructors demonstrate the syntax of writing array lists|
+|15 mins|WE DO Part 2|Learners write array lists and manipulate array lists|
 |5 mins| Break||
 |||**1 HR 20 MIN**|
-|15 mins|I DO Part 3| Instructor demonstrates initializing String and Integer variables and print it.|
-|15 mins|WE DO part 3| Learners initialize String, Integer, Char and Float variables. Then, print it.|
+|15 mins|I DO Part 3| Instructor demonstrates the different kinds of loops|
+|15 mins|WE DO part 3| Learners use the different kinds of loops and try to loop through arrays|
 |10 mins|Assignment briefing|
 |||**2 HR 00 MIN**|
 |40 mins|Learners self attempt on assignments|
