@@ -5,6 +5,7 @@
 Create a program called LoopAssignment.java and solve the following problems using loop statements.
 1. Create a while loop that prints all the odd numbers from 1 to 50
 2. Create a do-while loop that prints the following pattern from 1 to 20
+```
     1 - Pop
     2 - Pop
     3 - Fizz
@@ -19,4 +20,5 @@ Create a program called LoopAssignment.java and solve the following problems usi
     15 - FizzBuzz
     ...
     20 - Buzz
+```
 3. Use an enhanced for-loop to compute for the average of the given array
