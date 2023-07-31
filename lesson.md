@@ -8,8 +8,6 @@ Arrays can store any of the 8 primitive types (`int`, `char`, etc.) as well as o
 
 Create `LearnArrays.java` and code along.
 
-Open the ArraysLesson.java and code along with the student. Make sure to take time to pause after the Array section before proceeding to the ArrayList and conversion.
-
 #### Declaring an Array
 
 ```java
