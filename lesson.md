@@ -342,7 +342,7 @@ ArrayList<String> heroes = new ArrayList<>(Arrays.asList("Ironman", "Captain Ame
 ArrayList<String> moreHeroes = new ArrayList<>(Arrays.asList("Doctor Strange", "Spiderman", "Black Panther"));
 
 heroes.addAll(moreHeroes);
-System.out.println(heroes); // [Ironman, Captain America, Hawkeye, Hulk, Black Widow, Thor]
+System.out.println(heroes); // [Ironman, Captain America,  Hawkeye, Hulk, Black Widow, Thor, Doctor Strange, Spiderman, Black Panther]
 ```
 
 ### Search for an element with `contains()`
